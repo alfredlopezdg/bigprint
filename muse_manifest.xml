@@ -1,0 +1,221 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigprint.com" resolutions="1x" timestamp="1569729290374">
+  <folder name="css">
+    <file name="site_global.css" crc="487012647"/>
+    <file name="master_a-p_g_-maestra.css" crc="4124014781" ref="index:confirmacion:sin-título-4"/>
+    <file name="index.css" crc="3831632297" ref="index"/>
+    <file name="confirmacion.css" crc="395510403" ref="confirmacion"/>
+    <file name="sin-t_tulo-4.css" crc="486237556" ref="sin-título-4"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="222444626"/>
+    <file name="fontawesome-webfont.eot" crc="3863299673"/>
+    <file name="fontawesome-webfont.svg" crc="332874908"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:confirmacion:sin-título-4"/>
+    <file name="museutils.js" crc="3803043152" ref="index:confirmacion:sin-título-4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:confirmacion:sin-título-4"/>
+    <file name="museconfig.js" crc="380897831" ref="index:confirmacion:sin-título-4"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:confirmacion:sin-título-4"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:confirmacion:sin-título-4"/>
+    <file name="webpro.js" crc="242022427" ref="index:sin-título-4"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u6452.php" crc="4102530156" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:sin-título-4"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:sin-título-4"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:sin-título-4"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:confirmacion:sin-título-4"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:confirmacion:sin-título-4"/>
+    <file name="require.js" crc="4157109226" ref="index:confirmacion:sin-título-4"/>
+  </folder>
+  <folder name="images">
+    <file name="bg_inicio.jpg" crc="356578774" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="btn_ir-abajo.svg" crc="272972475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btn_ir abajo_poster_.png" crc="3813157596" ref="index"/>
+    <file name="impresion.jpg" crc="167042801" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_contact.jpg" crc="4097833860" ref="index:confirmacion">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_home.svg" crc="420729095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_home_poster_.png" crc="28013608" ref="index"/>
+    <file name="ico_cel.svg" crc="4138011184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_cel_poster_.png" crc="252487309" ref="index"/>
+    <file name="ico_mail.svg" crc="3864861966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico_mail_poster_.png" crc="4127702820" ref="index"/>
+    <file name="btn_face.svg" crc="3968733764" seo="true" ref="index:confirmacion:sin-título-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="confirmacion" alt=""/>
+      <caption webpage="sin-título-4" alt=""/>
+    </file>
+    <file name="btn_face_poster_.png" crc="503632373" ref="index"/>
+    <file name="btn_insta.svg" crc="4114781494" seo="true" ref="index:confirmacion:sin-título-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="confirmacion" alt=""/>
+      <caption webpage="sin-título-4" alt=""/>
+    </file>
+    <file name="btn_insta_poster_.png" crc="175831427" ref="index"/>
+    <file name="btn_whatsapp.svg" crc="101949519" seo="true" ref="index:confirmacion:sin-título-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="confirmacion" alt=""/>
+      <caption webpage="sin-título-4" alt=""/>
+    </file>
+    <file name="btn_whatsapp_poster_.png" crc="4269306572" ref="index"/>
+    <file name="rotulacion.png" crc="25687655" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (1).jpg" crc="188899306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (2).jpg" crc="4188645954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (3).jpg" crc="3833052486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (4).jpg" crc="301664439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (5).jpg" crc="3871613473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (6).jpg" crc="228674003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (7).jpg" crc="3894121259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (8).jpg" crc="290698753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (9).jpg" crc="323369419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (1)214x134.jpg" crc="4210865910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (2)214x134.jpg" crc="131996627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (3)214x134.jpg" crc="181839453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (4)214x134.jpg" crc="4079231802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (5)214x134.jpg" crc="3954214106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (6)214x134.jpg" crc="4155960028" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (7)214x134.jpg" crc="350094265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (8)214x134.jpg" crc="4286552972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1 - copia (9)214x134.jpg" crc="3847092082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="clt_sanjuan.svg" crc="4085265391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_sanjuan_poster_.png" crc="4094717483" ref="index"/>
+    <file name="clt_vigotsky.svg" crc="491395388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_vigotsky_poster_.png" crc="417133431" ref="index"/>
+    <file name="clt_vienesa.svg" crc="4250449335" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_vienesa_poster_.png" crc="3822611783" ref="index"/>
+    <file name="clt_cooperativa.svg" crc="3790780236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_cooperativa_poster_.png" crc="4275111948" ref="index"/>
+    <file name="clt_monaco.svg" crc="4112147914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_monaco_poster_.png" crc="4253120968" ref="index"/>
+    <file name="clt_autolavado.svg" crc="217803320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_autolavado_poster_.png" crc="349569752" ref="index"/>
+    <file name="clt_reypaletas.svg" crc="3994696481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_reypaletas_poster_.png" crc="3778964568" ref="index"/>
+    <file name="clt_metaluxor.svg" crc="3874429241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_metaluxor_poster_.png" crc="65171453" ref="index"/>
+    <file name="clt_rawmi.svg" crc="4156809947" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_rawmi_poster_.png" crc="3832761626" ref="index"/>
+    <file name="clt_sabores.svg" crc="3907798454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_sabores_poster_.png" crc="290734261" ref="index"/>
+    <file name="clt_chulla.svg" crc="142617589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_chulla_poster_.png" crc="265934973" ref="index"/>
+    <file name="clt_pascal.svg" crc="60211966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clt_pascal_poster_.png" crc="4075235397" ref="index"/>
+    <file name="sld_publicidad.jpg" crc="144217094" ref="sin-título-4">
+      <caption webpage="sin-título-4" alt=""/>
+    </file>
+    <file name="sld_marketing.jpg" crc="3950859956" ref="sin-título-4">
+      <caption webpage="sin-título-4" alt=""/>
+    </file>
+    <file name="sld_audiovisuales.jpg" crc="262864410" ref="sin-título-4">
+      <caption webpage="sin-título-4" alt=""/>
+    </file>
+    <file name="sld_rotulacion.jpg" crc="161528736" ref="sin-título-4">
+      <caption webpage="sin-título-4" alt=""/>
+    </file>
+    <file name="sld_tomas.jpg" crc="4077047087" ref="sin-título-4">
+      <caption webpage="sin-título-4" alt=""/>
+    </file>
+    <file name="btn_share.png" crc="3977030683" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btn_share-over.png" crc="65690245" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btn_share-down.png" crc="4204005391" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logobig.svg" crc="318333545" seo="true" ref="index:confirmacion:sin-título-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="confirmacion" alt=""/>
+      <caption webpage="sin-título-4" alt=""/>
+    </file>
+    <file name="logobig_poster_.png" crc="534900309" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4283927473" seo="true" mt="1569729278518" redirect="true"/>
+  <file name="confirmacion.html" crc="4067376168" seo="true" mt="1569729278512" redirect="true"/>
+  <file name="sin-título-4.html" crc="137164301" seo="true" mt="1569729278512" redirect="true"/>
+</manifest>
